@@ -17,8 +17,3 @@ clean :
 
 
 
-.PHONY : clean
-clean :
-	-rm edit $(objects)
-	echo Clean done
-
