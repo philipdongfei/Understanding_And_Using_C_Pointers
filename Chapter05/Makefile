@@ -14,10 +14,6 @@ passing_arg: passing_arg.c
 	gcc passing_arg.c -o passing_arg.out
 fn_pt_str: fn_pt_str.c
 	gcc fn_pt_str.c -o fn_pt_str.out
-passing_multiD_arr: passing_multiD_arr.c
-	gcc passing_multiD_arr.c -o passing_multiD_arr.out
-jagged_arr_pt: jagged_arr_pt.c
-	gcc jagged_arr_pt.c -o jagged_arr_pt.out
 
 
 
